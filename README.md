@@ -3,7 +3,7 @@
 Hey there Help Scout! Here's a simple little function, `strStartsWithUppercaseLetter`, that checks if the first letter of a string contains an uppercase letter A-Z.
 
 ## Example usage
-```
+```javascript
 import { strStartsWithUppercaseLetter } from "./index";
 
 if (strStartsWithUppercaseLetter("Help Scout")) console.log("Aw yeah, you did it buddy!");
