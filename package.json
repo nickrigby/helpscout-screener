@@ -1,0 +1,21 @@
+{
+  "name": "helpscout-screener",
+  "version": "1.0.0",
+  "description": "JavaScript screener for Help Scout",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickrigby/helpscout-screener.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nick Rigby",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
